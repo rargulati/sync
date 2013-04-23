@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'em-http-request'
 
   s.add_development_dependency 'faye'
+  s.add_development_dependency 'firehose'
   s.add_development_dependency 'thin'
   s.add_development_dependency 'pusher', '~> 0.11.3'
   s.add_development_dependency 'rake'
